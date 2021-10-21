@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+body{
+    font-family:'Lato',sans-serif;
+    background-image:url(background.png);
+    background-size:cover;
+    text-align: center;
+    color:white;
+}
+
+canvas{
+    background-color:#DBAB91;
+}
+
+.button{
+  margin:25px;
+}
+
+
+#button{
+width:150px;
+height: 100px;
+color:white;
+background-color:black;
+border:none;
+}
+
+
+
+#button:hover{
+  width:200px;
+  height: 100px;
+  color:blue;
+  background-color:red;
+  border:black;
+  border:2px;
+  }
+
+  #just-a-putton{
+    border:none;
+    color:black;
+    background-color: white;
+    text-align:left;
+    
+  }
+
+  #just-a-putton:hover{
+    border:none;
+    color:white;
+    background-color:black;
+    
+    
+  }
